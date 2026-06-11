@@ -27,7 +27,7 @@ A full-stack task management web application built using Django and SQLite. The 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/prameela-66/Todo-Management-Web-Application.git
 ```
 
 2. Navigate to the project folder:
@@ -76,8 +76,4 @@ http://127.0.0.1:8000/
 * Search and filtering
 * REST API integration
 
-## Author
 
-Your Name
-
-GitHub: https://github.com/yourusername
